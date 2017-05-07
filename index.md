@@ -1,3 +1,3 @@
-## Personal page
+## Personal Blog
 
 coming soon
