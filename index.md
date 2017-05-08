@@ -6,8 +6,8 @@ coming soon
 
 <ul>
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+      {{ post.excerpt }}
+      <a href="{{ post.url }}">More</a>
+
   {% endfor %}
 </ul>
